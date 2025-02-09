@@ -1,0 +1,196 @@
+
+
+
+  
+.container1 {
+    max-width: 900px;
+    margin: auto;
+    background: #2b2b2b;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Header */
+.heading1 {
+    color: #c084fc;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+/* Layout */
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Image */
+.image-container img {
+    width: 350px;
+    border-radius: 10px;
+}
+
+/* Text Section */
+.text-container {
+    margin: 0px 60px;
+
+    max-width: 700px;
+    text-align: left;
+}
+.text-container p{
+    font-weight: 600;
+    font-size: 17px;
+}
+
+/* Buttons */
+.buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.tab-btn {
+    background: transparent;
+    border: 2px solid  var(--primary-color);
+    color:var(--secondary-color);
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.tab-btn:hover, .tab-btn.active {
+    background: var(--primary-color);
+    color: black;
+}
+
+/* Tab Content */
+.tab-content {
+    line-height: 3 rem;
+    display: block;
+    margin-bottom: 15px;
+}
+
+/* Highlighted Text */
+.highlight {
+    color: rgb(19, 253, 19);
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.highlight span {
+    color: white
+}
+
+/* Closed Button */
+.closed-btn {
+    background: transparent;
+    border: 2px solid gold;
+    color: gold;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.closed-btn:hover {
+    background:gold;
+    color: white;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .text-container {
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+.box{
+    height: 450px;
+    padding: 20px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: var(--secondary-color)
+}
+@media (max-width: 768px) {
+    .box{
+        height: 300px;
+        margin: 20px !important;
+    }
+}
+
+
+
+/* Round Title */
+.round-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+/* Card Styles */
+.round-card {
+    height: 59px;
+    background: #01164b;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+    display: flex
+;
+    flex-direction: column;
+}
+
+.round-card h5 {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    color: white;
+}
+
+.subtitle {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    color: #b0b0b0;
+}
+.container1{
+    padding: 0px 40px !important;
+}
+.tech-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.hashtag {
+    font-size: 34px;
+    font-weight: bold;
+    color: var(--secondary-color); /* Light purple color */
+}
+
+.underline {
+    flex-grow: 1;
+    height: 2px;
+    background: var(--primary-color);
+}
