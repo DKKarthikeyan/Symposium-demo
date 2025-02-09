@@ -71,20 +71,20 @@ function Tech(){
                                                                                                                    Bring your ideas to life at Technoizia, the ultimate platform to exhibit working models! Demonstrate your technical expertise and creativity by presenting an innovative, functional model.
                                                                                                                    </p>
                                                                                                                    {/* <div className="row">
-                                                                                                                     <div className="col-md-6">
+                                                                                                                     <div className=" col-md-6 dkFix">
                                                                                                                        <h2>ROUND 1</h2>
                                                                                                                        
                                                                                        
                                                                                        
                                                                                                                      </div>
-                                                                                                                     <div className="col-md-6">
+                                                                                                                     <div className=" col-md-6 dkFix">
                                                                                                                        <h2>ROUND 2</h2>
                                                                                                                      </div>
                                                                                                                    </div> */}
                                                                                                                    <div >
                                                                                                    <div className="row">
                                                                                                        {/* Round 1 */}
-                                                                                                       <div className="col-md-6">
+                                                                                                       <div className=" col-md-6 dkFix">
                                                                                                            <h3 className="round-title">Round 1</h3>
                                                                                                            <div className="round-card">
                                                                                                                <h5><FaClipboardList style={{fontSize:'16px'}} /> Project Demo</h5>
@@ -105,7 +105,7 @@ function Tech(){
                                                                                                        </div>
                                                                                        
                                                                                                        {/* Round 2 */}
-                                                                                                       {/*<div className="col-md-6">
+                                                                                                       {/*<div className=" col-md-6 dkFix">
                                                                                                            <h3 className="round-title">Round 2</h3>
                                                                                                            <div className="round-card">
                                                                                                                <h5><FaClipboardList /> Coding Challenges</h5>

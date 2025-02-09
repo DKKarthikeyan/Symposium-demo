@@ -73,20 +73,20 @@ hands-on problem-solving in a collaborative environment.                        
 electrical engineering.
                                                                                    </p>
                                                                                    {/* <div className="row">
-                                                                                     <div className="col-md-6">
+                                                                                     <div className=" col-md-6 dkFix">
                                                                                        <h2>ROUND 1</h2>
                                                                                        
                                                        
                                                        
                                                                                      </div>
-                                                                                     <div className="col-md-6">
+                                                                                     <div className=" col-md-6 dkFix">
                                                                                        <h2>ROUND 2</h2>
                                                                                      </div>
                                                                                    </div> */}
                                                                                    <div >
                                                                    <div className="row">
                                                                        {/* Round 1 */}
-                                                                       <div className="col-md-6">
+                                                                       <div className=" col-md-6 dkFix">
                                                                            <h3 className="round-title">Round 1</h3>
                                                                            <div className="round-card">
                                                                                <h5><FaClipboardList style={{fontSize:'16px'}} />Model display</h5>
@@ -107,7 +107,7 @@ electrical engineering.
                                                                        </div>
                                                        
                                                                        {/* Round 2 */}
-                                                                       {/*<div className="col-md-6">
+                                                                       {/*<div className=" col-md-6 dkFix">
                                                                            <h3 className="round-title">Round 2</h3>
                                                                            <div className="round-card">
                                                                                <h5><FaClipboardList /> Coding Challenges</h5>

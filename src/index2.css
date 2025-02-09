@@ -78,8 +78,9 @@
   }
 
   .mobileNavbar{
-      width: 20rem !important;
+      width: 24rem !important;
   }
+
   .hero1PlaceHolder,.hero2PlaceHolder{
       width: 275px !important;
       height: 250px !important;
@@ -100,13 +101,15 @@
     height: 200px !important;
 }
 
-    .mobileNavbar{
-      width: 22rem !important;
-    }
   
     
     .mobileNavText{
-      margin-left: 0.8rem !important;
+      margin-left: 0.45rem !important;
+    }
+
+    a[href="/workshops"] + .mobileNavText,
+    a[href="/sponsors"] + .mobileNavText {
+    margin-left: 0 !important;
     }
     .developerBorder{
 

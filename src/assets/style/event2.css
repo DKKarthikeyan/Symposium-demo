@@ -7,25 +7,9 @@
 
 
 
-.grid-container {
-  display: flex;
-  justify-content: center;
-  gap: 50px;
-  flex-wrap: wrap;
-}
 
-.card1 {
-  height: 484px;
-  background: transparent;
-  border-style: solid;
-  border-width: 2px;
-  border-color:var(--primary-color);
-  border-radius: 10px;
-  padding: 20px;
-  width: 368px;
-  text-align: center;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
+
+
 
 .title {
   border-bottom-style: solid;
@@ -51,11 +35,3 @@
   background-color:  var(--card-Hover);
 }
 
-@media screen and (max-width : 424px) {
-  
-    .card1{
-      height: 300px;
-    }
-  
-  
-}

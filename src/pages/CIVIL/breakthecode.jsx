@@ -69,20 +69,20 @@ function Breakthecode (){
                                                            A "Break the code" generally refers to a situation where construction does not fully comply with established building codes, either due to design oversights, execution errors, or intentional violations. This can lead to structural weaknesses, safety hazards, or legal issues.
                                                            </p>
                                                            {/* <div className="row">
-                                                             <div className="col-md-6">
+                                                             <div className=" col-md-6 dkFix">
                                                                <h2>ROUND 1</h2>
                                                                
                                
                                
                                                              </div>
-                                                             <div className="col-md-6">
+                                                             <div className=" col-md-6 dkFix">
                                                                <h2>ROUND 2</h2>
                                                              </div>
                                                            </div> */}
                                                            <div >
                                            <div className="row">
                                                {/* Round 1 */}
-                                               <div className="col-md-6">
+                                               <div className=" col-md-6 dkFix">
                                                    <h3 className="round-title">Round 1</h3>
                                                    {/* <div className="round-card">
                                                        <h5><FaClipboardList style={{fontSize:'16px'}} /> Rolling Event (30 minutes)</h5>
@@ -104,7 +104,7 @@ function Breakthecode (){
                                                </div>
                                
                                                {/* Round 2 */}
-                                               <div className="col-md-6">
+                                               <div className=" col-md-6 dkFix">
                                                    <h3 className="round-title">Round 2</h3>
                                                    {/* <div className="round-card">
                                                        <h5><FaClipboardList /> Coding Challenges</h5>

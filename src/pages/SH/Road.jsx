@@ -70,20 +70,20 @@ function Road(){
                                                                                                                            Perform solo or as a team and let your creativity shine. Ready to rule the stage?Step into the spotlight at Roadies, the ultimate stage for showcasing your diverse talents!
                                                                                                                            </p>
                                                                                                                            {/* <div className="row">
-                                                                                                                             <div className="col-md-6">
+                                                                                                                             <div className=" col-md-6 dkFix">
                                                                                                                                <h2>ROUND 1</h2>
                                                                                                                                
                                                                                                
                                                                                                
                                                                                                                              </div>
-                                                                                                                             <div className="col-md-6">
+                                                                                                                             <div className=" col-md-6 dkFix">
                                                                                                                                <h2>ROUND 2</h2>
                                                                                                                              </div>
                                                                                                                            </div> */}
                                                                                                                            <div >
                                                                                                            <div className="row">
                                                                                                                {/* Round 1 */}
-                                                                                                               <div className="col-md-6">
+                                                                                                               <div className=" col-md-6 dkFix">
                                                                                                                    <h3 className="round-title">Round 1</h3>
                                                                                                                    <div className="round-card">
                                                                                                                        <h5><FaClipboardList style={{fontSize:'16px'}} /> Show the Talent</h5>
@@ -104,7 +104,7 @@ function Road(){
                                                                                                                </div>
                                                                                                
                                                                                                                {/* Round 2 */}
-                                                                                                               {/*<div className="col-md-6">
+                                                                                                               {/*<div className=" col-md-6 dkFix">
                                                                                                                    <h3 className="round-title">Round 2</h3>
                                                                                                                    <div className="round-card">
                                                                                                                        <h5><FaClipboardList /> Coding Challenges</h5>

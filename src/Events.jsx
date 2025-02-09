@@ -33,7 +33,7 @@ function Events() {
     
     <>
     <h1 className='ps-5 mt-4 fontOne bigText'><i className='primaryColor'>/ </i>Departments</h1>
-   <div className="container px-0">
+   <div className="container px-5 px-md-0">
       <div className="grid-container">
         {events.map((event, index) => (
           <div

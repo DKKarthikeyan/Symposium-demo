@@ -22,27 +22,19 @@
   flex-wrap: wrap;
 }
 
-/* .card1 {
-  height:350px;
+.card1 {
+  height: 484px;
   background: transparent;
   border-style: solid;
   border-width: 2px;
-  border-color:#2626a8;
+  border-color:var(--primary-color);
   border-radius: 10px;
   padding: 20px;
   width: 368px;
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-   &:hover{
-    img{
-      transform: scale(0.9);
-    }
-   }
-  img{
-    transition: all 0.3s ease-in-out;
-  }
-  
-} */
+}
+
 .card2 {
   height:484px;
   background: transparent;
@@ -156,10 +148,26 @@ font-stretch:extra-expanded;
 /* Mobile View */
 @media (max-width: 768px) {
 .contacts-grid {
-  grid-template-columns: 1fr; /* Single column for mobile */
+  grid-template-columns: 1fr !important; /* Single column for mobile */
 }
 
 .contact-card {
-  font-size: 16px;
+  font-size: 16px !important;
 }
+}
+
+
+
+
+
+@media screen and (max-width : 424px) {
+  
+  .card1{
+    height: fit-content !important;
+  }
+  .card2{
+    height:fit-content !important;
+  }
+
+
 }

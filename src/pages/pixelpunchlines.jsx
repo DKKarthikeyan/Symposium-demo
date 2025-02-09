@@ -69,20 +69,20 @@ function Pixelpunchlines() {
                                             A meme creation competition where the theme will be announced on the spot. Participants must create memes within the given time, focusing on creativity, humor, and relevance to the theme. They must bring their own mobile or laptop for designing.
                                             </p>
                                             {/* <div className="row">
-                                              <div className="col-md-6">
+                                              <div className=" col-md-6 dkfix">
                                                 <h2>ROUND 1</h2>
                                                 
                 
                 
                                               </div>
-                                              <div className="col-md-6">
+                                              <div className=" col-md-6 dkfix">
                                                 <h2>ROUND 2</h2>
                                               </div>
                                             </div> */}
                                             <div >
                             <div className="row">
                                 {/* Round 1 */}
-                                <div className="col-md-6">
+                                <div className=" col-md-6 dkFix">
                                     <h3 className="round-title">Round 1</h3>
                                     <div className="round-card">
                                         <h5><FaClipboardList style={{fontSize:'16px'}} /> Creative Thinking</h5>
@@ -103,7 +103,7 @@ function Pixelpunchlines() {
                                 </div>
                 
                                 {/* Round 2 */}
-                                {/* <div className="col-md-6">
+                                {/* <div className=" col-md-6 dkfix">
                                     <h3 className="round-title">Round 2</h3>
                                     <div className="round-card">
                                         <h5><FaClipboardList /> Coding Challenges</h5>

@@ -82,7 +82,7 @@ function csetec1() {
                             <div >
             <div className="row">
                 {/* Round 1 */}
-                <div className="col-md-6">
+                <div className="col-md-6 dkFix">
                     <h3 className="round-title">Round 1</h3>
                     <div className="round-card">
                         <h5><FaClipboardList style={{fontSize:'16px'}} /> Debuging skills</h5>
@@ -103,7 +103,7 @@ function csetec1() {
                 </div>
 
                 {/* Round 2 */}
-                <div className="col-md-6">
+                <div className="col-md-6 dkFix">
                     <h3 className="round-title">Round 2</h3>
                     <div className="round-card">
                         <h5><FaClipboardList /> Coding Challenges</h5>

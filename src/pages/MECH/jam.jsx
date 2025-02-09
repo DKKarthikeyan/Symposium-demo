@@ -74,20 +74,20 @@ function Jam(){
 ✦ Rules: No hesitation, repetition, or deviation. ✦ Judging Criteria: Fluency, Creativity, and Time Management.
                                                                                                            </p>
                                                                                                            {/* <div className="row">
-                                                                                                             <div className="col-md-6">
+                                                                                                             <div className=" col-md-6 dkFix">
                                                                                                                <h2>ROUND 1</h2>
                                                                                                                
                                                                                
                                                                                
                                                                                                              </div>
-                                                                                                             <div className="col-md-6">
+                                                                                                             <div className=" col-md-6 dkFix">
                                                                                                                <h2>ROUND 2</h2>
                                                                                                              </div>
                                                                                                            </div> */}
                                                                                                            <div >
                                                                                            <div className="row">
                                                                                                {/* Round 1 */}
-                                                                                               <div className="col-md-6">
+                                                                                               <div className=" col-md-6 dkFix">
                                                                                                    <h3 className="round-title">Round 1</h3>
                                                                                                    <div className="round-card">
                                                                                                        <h5><FaClipboardList style={{fontSize:'16px'}} /> Through the Fear (1 minutes)</h5>
@@ -108,7 +108,7 @@ function Jam(){
                                                                                                </div>
                                                                                
                                                                                                {/* Round 2 */}
-                                                                                               {/*<div className="col-md-6">
+                                                                                               {/*<div className=" col-md-6 dkFix">
                                                                                                    <h3 className="round-title">Round 2</h3>
                                                                                                    <div className="round-card">
                                                                                                        <h5><FaClipboardList /> Coding Challenges</h5>

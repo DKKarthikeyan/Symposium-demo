@@ -45,9 +45,7 @@
   flex: 1; /* Takes full width by default (vertical layout) */
   padding: 20px;
 }
-.text-side {
-  padding: 20px;
-}
+
 
 .prize {
   background-color: #f0506e;
@@ -84,28 +82,32 @@
 /* Media Query for larger screens (horizontal layout) */
 @media (min-width: 768px) {
   .event-container {
-    margin: 10px ;
-    margin: 20px 90px 60px 90px;
-    flex-direction: row;
+    margin: 10px  !important;
+    margin: 20px 90px 60px 90px !important;
+    flex-direction: row !important;
   }
   .image-side {
-    flex: 0.5; /* Takes 50% width on larger screens */
+    flex: 0.5 !important; /* Takes 50% width on larger screens */
   }
   .text-side {
-    flex: 0.9; /* Takes 50% width on larger screens */
+    flex: 0.9 !important; /* Takes 50% width on larger screens */
   }
 }
 @media only screen and (max-width: 950px) {
   .event-container{
-    width: auto;
+    width: auto !important;
   }
 }
 @media only screen and (max-width: 768px) {
  .event-container{
-  height: 600px;
-  margin: 20px;
+  height: 600px !important;
+  margin: 20px !important;
   img{
-    object-fit: cover;
+    object-fit: cover !important;
+  }
+
+  .text-side{
+    border-left-style: solid;
   }
  }
 }

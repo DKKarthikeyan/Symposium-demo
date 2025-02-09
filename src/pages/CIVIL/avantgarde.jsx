@@ -71,20 +71,20 @@ function Avantgarde(){
                                                            Avant-garde innovative, experimental, and unconventional approaches in art, design, literature, fashion, music, architecture, and other creative fields. Avant-garde challenges traditional norms, pushing boundaries to explore new ideas and perspectives.
                                                            </p>
                                                            {/* <div className="row">
-                                                             <div className="col-md-6">
+                                                             <div className=" col-md-6 dkFix">
                                                                <h2>ROUND 1</h2>
                                                                
                                
                                
                                                              </div>
-                                                             <div className="col-md-6">
+                                                             <div className=" col-md-6 dkFix">
                                                                <h2>ROUND 2</h2>
                                                              </div>
                                                            </div> */}
                                                            <div >
                                            <div className="row">
                                                {/* Round 1 */}
-                                               <div className="col-md-6">
+                                               <div className=" col-md-6 dkFix">
                                                    <h3 className="round-title">Round 1</h3>
                                                    {/* <div className="round-card">
                                                        <h5><FaClipboardList style={{fontSize:'16px'}} /> Rolling Event (30 minutes)</h5>
@@ -105,7 +105,7 @@ function Avantgarde(){
                                                </div>
                                
                                                {/* Round 2 */}
-                                               {/* <div className="col-md-6">
+                                               {/* <div className=" col-md-6 dkFix">
                                                    <h3 className="round-title">Round 2</h3>
                                                    <div className="round-card">
                                                        <h5><FaClipboardList /> Coding Challenges</h5>
