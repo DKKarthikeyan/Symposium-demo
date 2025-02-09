@@ -4,7 +4,7 @@ import { useState } from "react";
 import img2 from '../../assets/img/SH/img2.jpg'
 
 import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../../Footer";
+ 
 import QueryCard from "../../Components/QueryCard";
 
 function Tech(){

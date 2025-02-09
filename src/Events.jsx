@@ -7,7 +7,6 @@ import eee from './assets/img/EEE.jpg'
 import ece from './assets/img/ECE.jpg'
 import mech from './assets/img/Mech.jpg'
 import sh from './assets/img/sah.jpg'
-import Footer from './Footer';
 import ContactCard from './Components/ContactCard';
 
 function Events() {

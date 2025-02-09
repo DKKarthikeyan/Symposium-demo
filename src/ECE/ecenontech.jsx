@@ -1,11 +1,8 @@
 import React from "react";
 import '../assets/style/event3.css';
-import styled from 'styled-components';
-
 import minuteimg from '../assets/img/ECE/minute.jpg'
 import thinkimg from '../assets/img/ECE/think.jpg'
 import { useNavigate } from "react-router-dom";
-import Footer from "../Footer";
 import QueryCard from "../Components/QueryCard";
 
 function Ecenontech(){

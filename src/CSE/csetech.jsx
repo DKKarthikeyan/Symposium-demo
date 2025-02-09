@@ -1,12 +1,9 @@
 import React from "react";
 import '../assets/style/event3.css';
 import styled from 'styled-components';
-
 import uiuxignite from '../assets/img/CSE/uiux-ignite.png';
 import codeunravelled from '../assets/img/CSE/code-unravelled1.png';
-import ppt from '../assets/img/CSE/ppt.jpg';
 import { useNavigate } from "react-router-dom";
-import Footer from "../Footer";
 import QueryCard from "../Components/QueryCard";
 
 const EventContainer = styled.div`

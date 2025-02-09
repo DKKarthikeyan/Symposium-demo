@@ -1,12 +1,10 @@
 import React from "react";
 import '../assets/style/event3.css';
-import styled from 'styled-components';
+
 
 import circuitimg from '../assets/img/ECE/circuit.jpg';
 import robotimg from '../assets/img/ECE/robot.jpg';
-import ppt from '../assets/img/CSE/ppt.jpg';
 import { useNavigate } from "react-router-dom";
-import Footer from "../Footer";
 import QueryCard from "../Components/QueryCard";
 
 function Ecetech (){

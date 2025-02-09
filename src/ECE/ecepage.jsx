@@ -3,11 +3,7 @@ import '../assets/style/event2.css'
 import cse from '../assets/img/tech.jpg'
 import civil from '../assets/img/nontech.jpg'
 import eee from '../assets/img/surprise.jpg'
-import ece from '../assets/img/ECE.jpg'
-import mech from '../assets/img/MECH.jpg'
-import sh from '../assets/img/sah.jpg'
 import { useNavigate } from "react-router-dom";
-import Footer from "../Footer";
 import QueryCard from "../Components/QueryCard";
 
 function ECE() {

@@ -1,7 +1,5 @@
 import React from 'react'
-import DkImage from '../assets/img/Developers/dk.jpg'
 import Dk1 from '../assets/img/Developers/karthiDK.jpg'
-import Dk2 from '../assets/img/Developers/karthikeyan.jpeg'
 import KeerthiImage from '../assets/img/Developers/keerthi.jpg'
 import Hero4Card from './Hero4Card'
 

@@ -1,10 +1,8 @@
 import React from "react";
 import '../assets/style/event3.css';
-import styled from 'styled-components';
 import smartclickz  from '../assets/img/CIVIL/smartclickz.jpg'
 import avantgarde from '../assets/img/CIVIL/avatagarde.avif'
 import { useNavigate } from "react-router-dom";
-import Footer from "../Footer";
 import QueryCard from "../Components/QueryCard";
  function Civilnontech() {
   const navigate = useNavigate();

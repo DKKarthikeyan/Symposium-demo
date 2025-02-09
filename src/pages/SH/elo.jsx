@@ -4,7 +4,7 @@ import { useState } from "react";
 import img1 from '../../assets/img/SH/img1.jpg'
 
 import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../../Footer";
+ 
 import QueryCard from "../../Components/QueryCard";
 function Elo(){
      const [activeTab, setActiveTab] = useState("description");

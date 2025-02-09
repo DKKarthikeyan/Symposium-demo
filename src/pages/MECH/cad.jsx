@@ -5,7 +5,7 @@ import { useState } from "react";
 import img1 from '../../assets/img/MECH/img1.jpg'
 
 import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../../Footer";
+ 
 import QueryCard from "../../Components/QueryCard";
 
 function Cad (){

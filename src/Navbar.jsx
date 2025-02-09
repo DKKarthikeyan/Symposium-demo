@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from "./assets/img/Logo.png"
 import { Link } from 'react-router'
 
 function Navbar() {

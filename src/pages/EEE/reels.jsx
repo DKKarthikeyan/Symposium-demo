@@ -3,8 +3,8 @@ import '../../assets/style/final.css'
 import { useState } from "react";
 import img4 from '../../assets/img/EEE/img4.jpg'
 
-import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../../Footer";
+import { FaCalendarAlt,FaClipboardList } from "react-icons/fa";
+ 
 import QueryCard from "../../Components/QueryCard";
 function Reels(){
     const [activeTab, setActiveTab] = useState("description");

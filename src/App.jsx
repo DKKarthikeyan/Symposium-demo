@@ -1,4 +1,4 @@
-import { useState } from 'react';
+
 import { Routes, Route } from 'react-router-dom'; // Fixed import
 import './index2.css';
 import Navbar from './Navbar';

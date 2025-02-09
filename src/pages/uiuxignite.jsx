@@ -2,8 +2,7 @@ import React from "react";
 import { useState } from "react";
 import uiuxignite from '../assets/img/CSE/uiux-ignite.png';
 import '../assets/style/final.css'
-import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../Footer";
+import { FaMapMarkerAlt, FaCalendarAlt, FaClipboardList } from "react-icons/fa";
 import QueryCard from "../Components/QueryCard";
 
 

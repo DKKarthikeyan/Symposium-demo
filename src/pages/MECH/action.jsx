@@ -5,7 +5,7 @@ import { useState } from "react";
 import img4 from '../../assets/img/MECH/img4.jpg'
 
 import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../../Footer";
+ 
 import QueryCard from "../../Components/QueryCard";
 function Action(){
        const [activeTab, setActiveTab] = useState("description");

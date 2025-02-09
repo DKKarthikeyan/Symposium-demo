@@ -1,11 +1,11 @@
 import React from "react";
 import '../assets/style/event3.css';
-import styled from 'styled-components';
+
 
 import img1 from '../assets/img/SH/img1.jpg'
 import img2 from '../assets/img/SH/img2.jpg'
 import { useNavigate } from "react-router-dom";
-import Footer from "../Footer";
+
 import QueryCard from "../Components/QueryCard";
 
 

@@ -3,8 +3,6 @@ import { useState } from "react";
 import codeunravelled from '../assets/img/CSE/code-unravelled1.png';
 import '../assets/style/final.css'
 import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../Footer";
-import { NavLink } from "react-router";
 import QueryCard from "../Components/QueryCard";
 function csetec1() {
   const [activeTab, setActiveTab] = useState("description");

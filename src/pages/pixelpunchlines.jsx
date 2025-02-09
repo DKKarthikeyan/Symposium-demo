@@ -3,7 +3,6 @@ import { useState } from "react";
 import pixelimg from '../assets/img/CSE/pixel-punchlines.jpg';
 import '../assets/style/final.css'
 import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../Footer";
 import QueryCard from "../Components/QueryCard";
 
 function Pixelpunchlines() {

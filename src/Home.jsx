@@ -4,7 +4,7 @@ import Hero2 from './Hero/Hero2'
 import Hero3 from './Hero/Hero3'
 import Hero4 from './Hero/Hero4'
 import Hero5 from './Hero/Hero5'
-import Footer from './Footer'
+
 import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom';
 function Home() {

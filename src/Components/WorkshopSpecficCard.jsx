@@ -1,47 +1,4 @@
-// import React from 'react'
 
-// function WorkshopSpecficCard({Workshop}) {
-//   return (
-//     <div>
-//         <h1 className='ps-5 mt-4'><i className='primaryColor'>/ </i>{Workshop.title}</h1>
-//     <div className="container-md WorkshopSpecificWrap">
-//         <div className="row align-items-center">
-//             <div className="col-lg-5 p-5">
-//                 <div className='WorkshopImageControl p-4 border border-4 border-dark'>
-//                 <img src={Workshop.image} alt="" />
-//                 <h6 className='pt-2' ><i className='primaryColor'>//</i> Conducted by experts from <i className='primaryColor'>{Workshop.dept}</i>Staffs</h6>
-
-//                 </div>
-                
-
-//             </div>
-//             <div className="col-lg-7 pt-3">
-//                 <h3><i className='primaryColor'>#</i>What_to_expect?</h3>
-//                 <div className='line line1 mb-4 '></div>
-//                 <div className='workShopButton d-flex justify-content-around gap-3 mb-4'>
-//                     <button className='btn btn-outline-primary border-3 active' data-bs-toggle="button" autocomplete="off" aria-pressed="true">Description  &lt;~&gt;</button>
-//                     <button className='btn btn-outline-primary border-3 '>More Info  &lt;~&gt;</button>
-//                 </div>
-//                 <div className='p-2'>
-//                 <h4 className='pt-1'>{Workshop.para1}</h4>
-//                 <h4 className='pt-2'>{Workshop.para2}</h4>
-//                 <h4 className='pt-2'>{Workshop.para3}</h4>
-//                 <h4 className='pt-2'>{Workshop.para4}</h4>
-//                 <button className='btn btn-outline-success border-3  my-3'>Registration Open &lt;~&gt;</button>
-
-//                 </div>
-                
-
-//             </div>
-//         </div>
-
-
-//     </div>
-//     </div>
-//   )
-// }
-
-// export default WorkshopSpecficCard
 
 import React, { useState } from 'react';
 

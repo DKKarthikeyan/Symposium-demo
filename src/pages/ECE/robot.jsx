@@ -4,7 +4,7 @@ import { useState } from "react";
 import robotimg from '../../assets/img/ECE/robot.jpg';
 
 import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../../Footer";
+ 
 import QueryCard from "../../Components/QueryCard";
 
 function Robot(){

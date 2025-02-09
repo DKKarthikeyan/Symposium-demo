@@ -4,7 +4,7 @@ import { useState } from "react";
 import img3 from '../../assets/img/MECH/img3.jpg'
 
 import { FaMapMarkerAlt, FaCalendarAlt, FaClock, FaClipboardList } from "react-icons/fa";
-import Footer from "../../Footer";
+ 
 import QueryCard from "../../Components/QueryCard";
 function Jam (){
     const [activeTab, setActiveTab] = useState("description");

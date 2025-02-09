@@ -1,11 +1,8 @@
 import React from "react";
 import '../assets/style/event3.css';
-import styled from 'styled-components';
 import strickabridege from '../assets/img/CIVIL/strickabridge.jpg'
 import breakthecode from '../assets/img/CIVIL/breakthecode.jpg'
-import ppt from '../assets/img/CIVIL/ppt.jpg' 
 import { useNavigate } from "react-router-dom";
-import Footer from "../Footer";
 import QueryCard from "../Components/QueryCard";
 
 function CseTech1() {

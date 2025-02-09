@@ -1,6 +1,5 @@
 import React from 'react'
 import Hero3Sponsor from '../Components/Hero3Sponsor'
-import sponsor1 from '../assets/img/Sponsors/sponsor1.png'
 import ATSImage from '../assets/img/Sponsors/ATSSponsor.jpg'
 import RoamAiImage from '../assets/img/Sponsors/RoamAiSponsor.jpg'
 import ReccsarImage from '../assets/img/Sponsors/ReccsarSponsor.jpg'
