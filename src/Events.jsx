@@ -2,7 +2,7 @@ import React from 'react'
 import { useNavigate } from "react-router-dom";
 import './assets/style/event.css'
 import cse from './assets/img/CSE.jpg'
-import civil from './assets/img/civil.jpg'
+import civil from './assets/img/CIVIL.jpg'
 import eee from './assets/img/EEE.jpg'
 import ece from './assets/img/ECE.jpg'
 import mech from './assets/img/Mech.jpg'
