@@ -7,4 +7,5 @@ export default defineConfig({
     sourcemap:false,
   },
   plugins: [react()],
+  base:"./",
 })
