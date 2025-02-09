@@ -100,7 +100,7 @@
 }
 @media only screen and (max-width: 768px) {
  .event-container{
-  height: 600px !important;
+  height: fit-content !important;
   margin: 20px !important;
   img{
     object-fit: cover !important;
