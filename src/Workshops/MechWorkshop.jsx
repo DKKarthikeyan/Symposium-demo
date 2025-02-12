@@ -20,9 +20,9 @@ function MechWorkshop() {
 
 }
 const contacts = [
-  { name: "Dr. K. Rajesh ", number: " 9942305401" },
-  { name: "Mr. J. Jeffry ", number: "9442583263" },
-  { name: "Mr. P. Keerthiga ", number: "9080474770" },
+  { name: "Mr. R. Deepak ", number: " 9942305401" },
+  { name: "Mr. M. Mohamed aslam ", number: "9952893601" },
+ 
  
   // { name: "Ms V.Shriharini ", number: "9345828047" },
 ]

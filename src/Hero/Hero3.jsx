@@ -19,9 +19,9 @@ function Hero3() {
           <Hero3Sponsor name="Title Sponsor" sponsorImage={RoamAiImage} sponsorName="ROAM Ai" link="https://www.roam.ai/" blurr="" /> 
           <Hero3Sponsor name="Events Sponsor" sponsorImage={ATSImage} sponsorName="Accent Techno Soft" link="https://www.accenttechnosoft.com/" blurr="" />         
           <Hero3Sponsor name="Technology Partner" sponsorImage={ReccsarImage} sponsorName="Reccsar" link="https://reccsar.com/" blurr="" />
-          <Hero3Sponsor name="??? partner" sponsorImage={GoogleImage} sponsorName="Yet to be Announced.." blurr="imageBlur" />
+          {/* <Hero3Sponsor name="??? partner" sponsorImage={GoogleImage} sponsorName="Yet to be Announced.." blurr="imageBlur" />
           <Hero3Sponsor name="??? Sponsor" sponsorImage={HCLImage} sponsorName="Yet to be Announced.." blurr="imageBlur" />
-          <Hero3Sponsor name="??? Partner" sponsorImage={TeslaImage} sponsorName="Yet to be Announced.." blurr="imageBlur" />
+          <Hero3Sponsor name="??? Partner" sponsorImage={TeslaImage} sponsorName="Yet to be Announced.." blurr="imageBlur" /> */}
 
       </div>
      <Link to='/sponsors'><button type="button" class="mt-5 btn btn-outline-warning border-3 d-block mx-auto colorChange">Read More &lt;~&gt; </button></Link> 

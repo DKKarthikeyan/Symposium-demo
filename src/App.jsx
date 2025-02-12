@@ -72,9 +72,10 @@ function App() {
           ))}
         </ul>
       </div>
+      <Navbar />
       <div className='d-flex flex-column min-vh-100 app'>
         <div className='flex-grow-1'>
-          <Navbar />
+          
           <MobileNavbar />
           <Routes>
             <Route path='/' element={<Home />} />

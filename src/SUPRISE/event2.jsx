@@ -134,7 +134,7 @@ technologies, inventions, or solutions.English only
                                                                                                                            
                                                                                                        
                                                                                                        <button className="closed-btn" onClick={() => window.open("https://docs.google.com/forms/d/e/1FAIpQLScw5hddu82bCWz8QV-Jtm0GrBmw1_NhurNzU-jMsVJ4uM7_RA/viewform", "_blank")}>Register Now ↔</button>
-                                                                                                       <button className="closed-btn mt-3 mt-sm-0" style={{margin:'0px 50px'}}><a href="pdf/event.pdf" download="event.pdf" style={{textDecoration:'none',textDecorationColor:'none'}}>Download PDF</a></button>
+                                                                                                       <button className="closed-btn mt-3 mt-sm-0" style={{margin:'0px 50px'}}><a href="pdf/IDEACLUM.pdf" download="IDEACLUM.pdf" style={{textDecoration:'none',textDecorationColor:'none'}}>Download PDF</a></button>
                                                                                                                        </div>
                                                                                                        
                                                                                                                  </div>
