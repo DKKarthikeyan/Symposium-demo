@@ -31,7 +31,7 @@ const CivilWorkshop = () => {
           { name: "MR. P. Jayaraj ", number: "8667797125" },
           { name: "MR. M. Krithik Ananth ", number: "7904406974" },
          
-          { name: "Ms. G. Dharshana", number: " 7010213168" },
+          { name: "MR. T. Karthikeyan", number: " 7010213168" },
         ]
 
   return (
